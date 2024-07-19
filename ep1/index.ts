@@ -11,8 +11,8 @@ console.log(ต้องการกลับบ้าน)
 const a: number = 8
 const b: number = 69
 
-console.log (a === b)
+console.log(a === b)
 
-console.log (a > b)
+console.log(a > b)
 
-console.log (a <= b)
+console.log(a <= b)
