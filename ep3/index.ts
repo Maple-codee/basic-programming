@@ -56,20 +56,19 @@ function st(ayu: number, ngerndern: number, ngernfag: number) {
 
 st(18, 65000, 450000)
 
-function st(sung: number) {
-    console.log(sung)
+function bmi(sung: number, namnag: number) {
+    let score: number = weight / (height * height)
+
+    if(score < 18.50) { 
+        return 'ผอม' 
+    } else if (score < 22.90) { 
+        return 'ปกติ' 
+    } else if (score < 24.90) { 
+        return 'ท้วม' 
+    } else if (score < 29.90) { 
+        return 'อ้วน' 
+    } else { 
+        return 'อ้วนมาก' 
+    }
 }
-
-st((1.66))
-
-function st(namnag) {
-    console.log(namnag)
-}
-
-st((55))
-
-let sung2: number = (sung: numner * sung: nember)
-
-let bmi number = (namnag: number / sung2: nember)
-
-function kamnouan()
+console.log(bmi(1.7, 90))
