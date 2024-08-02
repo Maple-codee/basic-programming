@@ -60,15 +60,15 @@ function bmi(sung: number, namnag: number) {
     let score: number = namnag / (sung * sung)
 
     if(score < 18.50) { 
-        return 'ผอม' 
+        return ('ผอม')
     } else if (score < 22.90) { 
-        return 'ปกติ' 
+        return ('ปกติ') 
     } else if (score < 24.90) { 
-        return 'ท้วม' 
+        return ('ท้วม')
     } else if (score < 29.90) { 
-        return 'อ้วน' 
+        return ('อ้วน')
     } else { 
-        return 'อ้วนมาก' 
+        return ('อ้วนมาก')
     }
 }
 console.log(bmi(1.7, 55))
