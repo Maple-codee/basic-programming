@@ -71,4 +71,4 @@ function bmi(sung: number, namnag: number) {
         return 'อ้วนมาก' 
     }
 }
-console.log(bmi(1.66, 55))
+console.log(bmi(1.7, 55))
