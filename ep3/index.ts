@@ -57,7 +57,7 @@ function st(ayu: number, ngerndern: number, ngernfag: number) {
 st(18, 65000, 450000)
 
 function bmi(sung: number, namnag: number) {
-    let score: number = weight / (height * height)
+    let score: number = namnag / (sung * sung)
 
     if(score < 18.50) { 
         return 'ผอม' 
@@ -71,4 +71,4 @@ function bmi(sung: number, namnag: number) {
         return 'อ้วนมาก' 
     }
 }
-console.log(bmi(1.7, 90))
+console.log(bmi(1.66, 55))
