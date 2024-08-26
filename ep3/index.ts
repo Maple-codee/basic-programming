@@ -28,9 +28,9 @@ st('mix', 'zane')
 
 function st(fname: string, sname: string, tname: string) {
     if (!(fname === 'mix' || sname === 'zane') && tname === 'forth') {
-        cosole.log('พร้อมเรียน') 
+        console.log('พร้อมเรียน') 
     } else {
-        console,log('ยังไม่พร้อม')
+        console.log('ยังไม่พร้อม')
     }
 }
 
@@ -44,7 +44,7 @@ function st(gender: string, tall: number, weight: number) {
     }
 }
 
-st('ชาย', 180, 69)
+st('ชาย', 166, 59)
 
 function st(ayu: number, ngerndern: number, ngernfag: number) {
     if (ayu >= 16 && ngerndern < 70000 && ngernfag < 500000) {
