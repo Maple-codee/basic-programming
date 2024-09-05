@@ -84,3 +84,30 @@ const me = {
 // ชื่อเล่น : Wave
 // อายุ : 20
 // เบอร์ : 69
+
+const me = {
+    firstName: 'maple',
+    LastName : 'muichiro',
+    age : 20 ,
+    phoneNumber : 0888888888,
+    sex : 'male',
+    addres : 'japan',
+    city : 'tokyo',
+    numBerCity : 2344,
+    street :  'tokyo',
+    numberStreet : 8,
+    mail : 'konodio4826@gmail.com'
+}
+
+// ประวัติส่วนตัว
+
+// ชื่อ : maple
+// นามสกุล : muichiro
+// อายุ : 20
+// เบอร์โทร : 0888888888
+// เพศ : ชาย
+// ที่อยู่ : japan
+// เมือง : tokyo
+// ถนน : tokyo
+// ถนนหมายเลข : 8
+// เมล : konodio4826@gmail.com
