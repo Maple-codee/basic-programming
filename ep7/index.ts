@@ -86,7 +86,7 @@ const me = {
 // เบอร์ : 69
 
 const me = {
-    firstName: 'maple',
+    firstName : 'maple',
     LastName : 'muichiro',
     age : 20 ,
     phoneNumber : 0888888888,

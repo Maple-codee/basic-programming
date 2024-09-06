@@ -1,5 +1,5 @@
 const me = {
-    firstName: 'maple' ,
+    firstName : 'maple',
     LastName : 'muichiro',
     age : 20,
     phoneNumber : 888,
