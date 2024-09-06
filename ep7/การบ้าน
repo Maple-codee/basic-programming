@@ -1,0 +1,26 @@
+const me = {
+    firstName: 'maple' ,
+    LastName : 'muichiro',
+    age : 20,
+    phoneNumber : 888,
+    sex : 'male',
+    addres : 'japan',
+    city : 'japan',
+    numBerCity : 100,
+    street :  tokyo',
+    numberStreet : 69,
+    mail : 'konodio4826@gmail.com'
+}
+
+// ประวัติส่วนตัว
+
+// ชื่อ : maple
+// นามสกุล : muichiro
+// อายุ : 20
+//เบอร์โทร : 888
+//เพศ : ชาย
+//ที่อยู่ : japan
+//เมือง : japan
+//ถนน : tokyo
+//ถนนหมายเลข : 69
+//เมล : konodio4826@gmail.com
